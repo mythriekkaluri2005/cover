@@ -162,7 +162,7 @@ book.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-27 215033.png>)
+![alt text](<Screenshot (13).png>)
 
 
 ## RESULT:
