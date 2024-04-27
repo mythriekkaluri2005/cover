@@ -38,7 +38,7 @@ book.html
 <html>
 
 <head>
-    <title>Music</title>
+    <title>WEB APPLICATIONS</title>
     <style>
         .bookpage{
 
